@@ -1,5 +1,4 @@
 # JavaScript Deobfuscators/Obfuscators List!
----
 
 ### Obfuscator
 | Name | Description |
