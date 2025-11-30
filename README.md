@@ -1,15 +1,5 @@
-# Java Obfuscator List
-
-A comprehensive list of Java obfuscators, including both free/open-source and commercial options. Contributions welcome!
-
-## Table of Contents
-- [Transpilers/Native Obfuscation](#transpilersnative-obfuscation)
-- [Bytecode Obfuscation](#bytecode-obfuscation)
-- [Obfuscation Benchmarks](#obfuscation-benchmarks)
-
+# JavaScript Deobfuscators/Obfuscators List!
 ---
-
-## Transpilers/Native Obfuscation
 
 ### Obfuscator
 | Name | Description |
