@@ -15,5 +15,6 @@
 | [JavaScript Deobfuscator](https://deobfuscate.io/) | The most popular and not good deobfuscator. |
 | [Relative Im](https://deobfuscate.relative.im/) | As first, not good deobfuscator, can deobfuse some codes but not large. |
 | [de4js](https://lelinhtinh.github.io/de4js/) | Good deobfuscator, with many types of deobfuscate types. |
+| [OBF.io - Deobfuscator](https://obf-io.deobfuscate.io) | Obfuscator.io's Deobfuscator |
 
 ---
